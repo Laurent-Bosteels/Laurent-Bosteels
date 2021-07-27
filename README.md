@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Laurent
 #### Junior Web Developer Trainee at BeCode.org
 
-Skills: HTML / CSS / REACT / ANGULAR / JS / TS / PHP / LARAVEL 
-
-- 🔭 I’m currently working on https://github.com/Laurent-Bosteels/SASS-introduction 
-- 🌱 I’m currently learning SASS 
+- 🔭 I’m currently working on https://github.com/Laurent-Bosteels/laravel-api 
+- 🌱 I’m currently learning Laravel 8
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurent-Bosteels)](https://github.com/anuraghazra/github-readme-stats)
 
